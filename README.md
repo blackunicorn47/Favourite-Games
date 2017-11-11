@@ -10,4 +10,8 @@ This is a starter repo for those who want to learn how to make a pull request.
 ## Curated List
 
 * __GTA San Andreas__ - *[Vignesh Ramesh](http://www.vigneshramesh.in)*
+
+* __Mario__ - *[Shinji Suzuki](https://www.facebook.com/profile.php?id=100004061394299)*
+
 * __FIFA__ - *[Vignesh Ramesh](http://www.vigneshramesh.in)*
+
