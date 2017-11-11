@@ -14,5 +14,6 @@ This is a starter repo for those who want to learn how to make a pull request.
 * __Need for speed__ - *[Amit Chawla](https://www.linkedin.com/in/amitchawla1995/)* 
 * __FIFA__ - *[kentaro horie](http://kentarohorie.portfoliobox.net/)*
 * __Mario__ - *[Shinji Suzuki](https://www.facebook.com/profile.php?id=100004061394299)*
+* __mohit__ - *[MOhit Phulera](https://www.MohitPhuera.com)*
 
 
